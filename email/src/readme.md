@@ -18,7 +18,9 @@ CREATE DATABASE dbemail;
 criando a tabela de e-mail, conforme definição na classe model, digitar linha por linha abaixo uma por vez
 
 video referencia para apoiar a criar uma base https://www.youtube.com/watch?v=DAWCBiNyh0A
+
 '---------------------------------------------------------------------------------------------------------
+
 video da aula do microsservice de e-mail para pegar o nome dos campos certinhos https://www.youtube.com/watch?v=ZBleZzJf6ro (no minuto 31:13)
 
 create table TB_EMAIL(
