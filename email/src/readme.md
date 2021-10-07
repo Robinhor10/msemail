@@ -15,7 +15,7 @@ CREATE DATABASE dbemail;
 \connect dbemail;
 
 ----------------------------------------------------------------------------------------------------------
-criando a tabela de e-mail, conforme definição na classe model, digitar linha por linha abaixo, uma por vez
+criando a tabela de e-mail, conforme definição na classe model, digitar linha por linha abaixo uma por vez
 
 video referencia para apoiar a criar uma base https://www.youtube.com/watch?v=DAWCBiNyh0A
 '---------------------------------------------------------------------------------------------------------
