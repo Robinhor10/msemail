@@ -1,0 +1,2 @@
+com\msemail\email\controllers\EmailController.class
+com\msemail\email\enums\StatusEmail.class
